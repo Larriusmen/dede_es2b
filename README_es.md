@@ -47,6 +47,7 @@ Deberias ser capaz de acceder a la aplicación en [http://localhost:3000](http:/
 
 ## Miembros del equipo
 Álex Caso Díaz - UO269855
+Adrián Fernández Alonso - UO264268
 
 ## Mas información
 Encontrarás más información sobre el repositorio en los otros archivos README:
