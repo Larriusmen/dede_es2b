@@ -49,6 +49,7 @@ Deberias ser capaz de acceder a la aplicación en [http://localhost:3000](http:/
 Álex Caso Díaz - UO269855
 Adrián Fernández Alonso - UO264268
 Pedro Zahonero Mangas - UO276840
+Diego Villa García - UO277188
 
 ## Mas información
 Encontrarás más información sobre el repositorio en los otros archivos README:
